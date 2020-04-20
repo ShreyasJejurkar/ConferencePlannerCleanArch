@@ -3,7 +3,5 @@ Builded Backend API of ConferencePlanner app following principles of Clean Archi
 
 The original repo https://github.com/dotnet-presentations/aspnetcore-app-workshop
 
-I found couple of problem in that so decided to build the backend api completely by following clean architecture and DDD principles. 
+I found couple of problem in that so decided to build the backend api completely by following clean architecture and implementing CQRS with Meditr library https://github.com/jbogard/MediatR. 
 Template referred - https://github.com/jasontaylordev/CleanArchitecture/
-
-
